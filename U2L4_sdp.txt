@@ -1,0 +1,9 @@
+1. Identical heights and widths
+
+2. Identical 1st height and 2nd width
+
+3. Identical 2nd height and 1st width 
+
+4. 2 outer loops, 1 inner loop
+
+5. Height and width variables
